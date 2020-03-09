@@ -1,0 +1,22 @@
+{
+  "name": "export-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luthfir10/express.js_export_excel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luthfir10/express.js_export_excel/issues"
+  },
+  "homepage": "https://github.com/luthfir10/express.js_export_excel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
